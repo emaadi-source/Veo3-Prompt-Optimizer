@@ -1,0 +1,10 @@
+# Ensure GitHub Linguist counts JS/JSX/CSS in src folder
+/src/** linguist-detectable=true
+
+# Explicitly include these extensions for detection
+*.js    linguist-detectable=true
+*.jsx   linguist-detectable=true
+*.css   linguist-detectable=true
+
+# Treat markdown as documentation only (optional)
+*.md    linguist-documentation=true
