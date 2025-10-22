@@ -20,13 +20,6 @@
 
 Instead of spending hours crafting perfect prompts, you simply type your idea, select preferences (like cinematic style, lighting, camera movement, etc.), and **Veo3 automatically generates a high-quality JSON** formatted exactly for AI ad-generation engines.  
 
----
-
-## 🎬 Demo Preview
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/veo3_demo.gif" alt="Veo3 Demo Preview" width="700">
-</p>
 
 ---
 
