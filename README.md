@@ -1,7 +1,7 @@
 # 🌌 Veo3 Prompt Optimizer  
 ### Transform your raw creative idea into a flawless, production-ready AI advertisement prompt.
 
----
+
 
 
 
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript" />
 </p>
 
----
+
 
 ## 🧠 Overview
 
@@ -20,7 +20,7 @@
 Instead of spending hours crafting perfect prompts, you simply type your idea, select preferences (like cinematic style, lighting, camera movement, etc.), and **Veo3 automatically generates a high-quality JSON** formatted exactly for AI ad-generation engines.  
 
 
----
+
 
 ## 🚀 Features
 
@@ -45,11 +45,6 @@ Instead of spending hours crafting perfect prompts, you simply type your idea, s
 | 🧠 **Lucide Icons** | Modern icon library for interactive UX |
 | 📜 **JavaScript (ES6)** | Logic, prompt transformation, and state management |
 | 💾 **Vite** | Lightning-fast development and build environment |
-
----
-
-## 🧱 Project Structure
-
 
 ---
 
@@ -103,7 +98,7 @@ Instead of spending hours crafting perfect prompts, you simply type your idea, s
 
 ---
 
-## 🪄 Interface Flow
+##  Interface Flow
 
 ```text
 User Idea ➜ Style Questions ➜ Prompt Enhancement ➜ JSON Generation ➜ Copy/Use in AI Platform
