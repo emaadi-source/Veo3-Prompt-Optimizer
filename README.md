@@ -3,9 +3,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/veo3_banner.png" alt="Veo3 Banner" width="850">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-React.js-blue?logo=react" />
