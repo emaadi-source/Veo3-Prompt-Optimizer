@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Framework-React.js-blue?logo=react" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38BDF8?logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
 ---
