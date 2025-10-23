@@ -6,6 +6,11 @@
 *.jsx   linguist-detectable=true
 *.css   linguist-detectable=true
 
+<<<<<<< HEAD
 # Treat markdown as documentation only
 *.md    linguist-documentation=true
 
+=======
+# Treat markdown as documentation only (optional)
+*.md    linguist-documentation=true
+>>>>>>> 50a0bb152e4d85c16ebf3235d0253b798fa1072e
